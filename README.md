@@ -1,4 +1,9 @@
-### Hi there 👋
+![hippo](https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy-downsized.gif)
+
+### Привет! Я фронтенд разработчик 👋
+
+Закончила обучение в Яндекс Практикуме, по направлению веб-разработка: JavaScript, React, CSS, HTML, Grid Layout, Flexbox, БЭМ, CSS-анимации + основы бэкенда Express.js, Node.js, MongoDB 
+
 
 <!--
 **Angalda/angalda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
