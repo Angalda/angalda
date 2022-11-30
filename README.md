@@ -1,15 +1,13 @@
-<h1 align="center">Привет! Я фронтенд разработчик <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center"> Привет!  Меня зовут Анастасия <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+<br/> Я - фронтенд разработчик </h1>
 
-Меня зовут Анастасия. 
+<p align="center"> <img src="https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy-downsized.gif" height="320"/></p>
 
-<a href="https://wa.me/79157444053?text=<Привет!>"><img src="https://soyus-s.ru/wp-content/uploads/2021/01/wa.jpg" height="102"> </a> 
-<a href="tg://resolve?domain=angalda"><img src="https://filearchive.cnews.ru/img/book/2022/05/17/telegram_png28-2048x1902.png" height="102"></a>
-
-
+<p align="center">
+<a href="https://wa.me/79157444053?text=<Привет!>"><img align="center" src="https://sun9-56.userapi.com/impg/bpEU_9a8epihA5waIjwJF4IR9pgAmlf1I1xQpA/1Y3kJKmWAoA.jpg?size=604x310&quality=96&sign=f4876db246600443ad54c5035382bf74&type=album" height="102"> </a> 
+<a href="https://t.me/angalda"><img align="center" src="https://catherineasquithgallery.com/uploads/posts/2021-02/1612740580_178-p-goluboi-fon-telegramm-225.jpg" height="102"></a>
+</p>
+ 
 Я закончила обучение в Яндекс Практикуме, по направлению веб-разработка: JavaScript, React, CSS, HTML, Grid Layout, Flexbox, БЭМ, CSS-анимации + основы бэкенда Express.js, Node.js, MongoDB 
-
-
- <p align="center"> <img src="https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy-downsized.gif" height="320"/></p>
  
  Стремлюсь стать лучше, изучаю Redux, создаю сайты всем знакомым 🎈
-
