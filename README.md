@@ -1,5 +1,6 @@
-<h2 align="center"> Привет!  Меня зовут Анастасия <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-<br/> Я - фронтенд разработчик </h2>
+<h2 align="center"> Привет!  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> <br/>
+ Меня зовут Анастасия <br/>
+ Я - фронтенд разработчик </h2>
 
 <p align="center"> <img src="https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy-downsized.gif" height="320"/></p>
 
